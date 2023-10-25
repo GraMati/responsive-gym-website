@@ -1,5 +1,7 @@
 💪 Responsive Gym Website Design
 
+DEMO: https://gymwebsitegramati.netlify.app/
+
 * Responsive Gym Website Design Using HTML CSS & JavaScript
 
 * Contains animations when scrolling.
